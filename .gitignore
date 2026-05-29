@@ -1,0 +1,18 @@
+# Secrets
+.env
+github.key
+
+# Packages
+node_modules
+
+# Outputs
+dist
+.js
+
+# IDE
+.vscode
+!.vscode/settings.json
+
+# System Files
+.DS_STORE
+Thumbs.db
