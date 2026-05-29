@@ -465,7 +465,7 @@ img.image {
     min-width: 15%;
 }
 
-.imageContainer > img: {
+.imageContainer > img {
   width: 500px;
   height: 200px;
 }
